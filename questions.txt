@@ -1,1 +1,3 @@
 What deployment strategies are most common for software companies?
+
+What scenarios should you use the different dpeloyment strategies; what are each one's advantages and disadvantages?
